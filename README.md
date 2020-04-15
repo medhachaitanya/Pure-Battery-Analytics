@@ -3,7 +3,7 @@ This is the repository containing the Pure Battery System Tray Add-on applicatio
 
 You may download the original Pure Battery Analytics application from [Microsoft Store.](https://www.microsoft.com/en-us/p/pure-battery-analytics/9nblggh4x4k3?activetab=pivot:overviewtab)
 
-# Usage
+# How to install ?
 
 * Download the zip file, extract it and run the setup file.  
 * Extract the zip
@@ -13,6 +13,9 @@ You may download the original Pure Battery Analytics application from [Microsoft
 * Right click and configure settings based on your preferences.
 * You're all set!
  
+# App Screenshots
+![System-Tray](https://github.com/medhachaitanya/PureBatteryAddOnSetup/blob/master/Screenshots/SystemTray.PNG)
+![Settings](https://github.com/medhachaitanya/PureBatteryAddOnSetup/blob/master/Screenshots/Settings.PNG)
 
 # Acknowledgements
 All the icons that have been used for this project have been created using [Metro Studio.](https://www.syncfusion.com/downloads/metrostudio)
