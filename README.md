@@ -8,7 +8,7 @@ You may download the original Pure Battery Analytics application from [Microsoft
 * Download the zip file, extract it and run the setup file.  
 * Extract the zip
   * Run the setup file.
-  * Ignore if there are any windows smartscreen warnings.
+  * Ignore if there are any windows smartscreen warnings as shown in [Step2](https://github.com/medhachaitanya/PureBatteryAddOnSetup/blob/master/Step%202_%20Very%20Imp%20-%20Read%20and%20Understand.png).
 * After installing, you should see the add-on running in your taskbar.
 * Right click and configure settings based on your preferences.
 * You're all set!
