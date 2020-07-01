@@ -17,6 +17,9 @@ You may download the original Pure Battery Analytics application from [Microsoft
 ![System-Tray](https://github.com/medhachaitanya/PureBatteryAddOnSetup/blob/master/Screenshots/SystemTray.PNG)
 ![Settings](https://github.com/medhachaitanya/PureBatteryAddOnSetup/blob/master/Screenshots/Settings.PNG)
 
+# Note:
+If there are any errors installing the app, please drop an email to medhachaitanya@outlook.com.
+
 # Acknowledgements
 All the icons that have been used for this project have been created using [Metro Studio.](https://www.syncfusion.com/downloads/metrostudio)
 
