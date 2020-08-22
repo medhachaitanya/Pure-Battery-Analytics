@@ -20,7 +20,15 @@ So, I thought separating the values with commas is a simple way to satisfy diffe
   * There's no restriction on the number of values given. But practically, you can give only 93 values as battery ranges from 7-100 and duplicates are ignored. Windows by default hiberates if the battery is less than 7%.
 
 
+# How to install ?
 
+* Download the zip file from [Latest](https://github.com/medhachaitanya/PureBatteryAddOnSetup/tree/master/Latest) folder, extract it and run the setup file.  
+* Extract the zip
+  * Run the setup file.
+  * Ignore if there are any windows smartscreen warnings as shown in [Step 2](https://github.com/medhachaitanya/PureBatteryAddOnSetup/blob/master/Step%202_%20Very%20Imp%20-%20Read%20and%20Understand.png).
+* After installing, you should see the add-on running in your taskbar.
+* Right click and configure settings based on your preferences.
+* You're all set!
 
 This project/software is made free so that more people can use it. 
 To help me continue working on making this app better, please consider donating any amount(tiny/small/big) that you wish to. 
