@@ -9,7 +9,13 @@
 * You're all set!
 
 # What's new?
-Add as many as battery percentage values to get notified accordingly. 
+-You can now bold the percentage digits shown in the system-tray. 
+
+-Performance improvements and bug fixes.
+
+-Launch Pure battery right from the tray icon.
+
+-Add as many as battery percentage values to get notified accordingly. 
 
 I understand everyone has their own requirements. Not one size fits all.
 Based on the feedback that I have received,
@@ -28,6 +34,12 @@ So, I thought separating the values with commas is a simple way to satisfy diffe
   * 15,16,17,18,19,20 - If you want to be notified at every percentage from 15-20.
   * 15,15 - Any duplicates are ignored internally. So, DO NOT assume that 15,15 will raise the notifications twice.
   * There's no restriction on the number of values given. But practically, you can give only 93 values as battery ranges from 7-100 and duplicates are ignored. Windows by default hiberates if the battery is less than 7%.
+
+# Requirements
+This application requires:
+
+the latest [.NET Framework 4.8.](https://dotnet.microsoft.com/download/dotnet-framework/net48)
+Windows 10 with Anniversary Update (10.0 build 14393) or later
 
 
 This project/software is made free so that more people can use it. 
