@@ -38,8 +38,8 @@ So, I thought separating the values with commas is a simple way to satisfy diffe
 # Requirements
 This application requires:
 
-the latest [.NET Framework 4.8.](https://dotnet.microsoft.com/download/dotnet-framework/net48)
-Windows 10 with Anniversary Update (10.0 build 14393) or later
+ * The latest [.NET Framework 4.8.](https://dotnet.microsoft.com/download/dotnet-framework/net48)
+ * Windows 10 with Anniversary Update (10.0 build 14393) or later
 
 
 This project/software is made free so that more people can use it. 
