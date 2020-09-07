@@ -24,17 +24,21 @@ Based on the feedback that I have received,
   * Few at every percentage from 10 to 20.  
   
 So, I thought separating the values with commas is a simple way to satisfy different requirements. Please let me know if you have any other ideas or suggestions.
+
+# Screenshots
+
 ![System-Tray](https://github.com/medhachaitanya/PureBatteryAddOnSetup/blob/master/Screenshots/SystemTray.PNG)
+
 ![You can now choose to notify at multiple battery percentages](https://github.com/medhachaitanya/PureBatteryAddOnSetup/blob/master/Screenshots/LatestScreenshot.png)
 
-# Examples: 
+# Examples 
   * 20 - Notifies only when battery is 20%
   * 30,90 - Notifies when battery is 30% or 90%.
   * 10,50,80,90 - Notifies whenever battery is 10% or 50% or 80% or 90%.
   * 15,16,17,18,19,20 - If you want to be notified at every percentage from 15-20.
   * 15,15 - Any duplicates are ignored internally. So, DO NOT assume that 15,15 will raise the notifications twice.
   * There's no restriction on the number of values given. But practically, you can give only 93 values as battery ranges from 7-100 and duplicates are ignored. Windows by default hiberates if the battery is less than 7%.
-
+  
 # Requirements
 This application requires:
 
