@@ -24,7 +24,7 @@ Based on the feedback that I have received,
   * Few at every percentage from 10 to 20.  
   
 So, I thought separating the values with commas is a simple way to satisfy different requirements. Please let me know if you have any other ideas or suggestions.
-
+![System-Tray](https://github.com/medhachaitanya/PureBatteryAddOnSetup/blob/master/Screenshots/SystemTray.PNG)
 ![You can now choose to notify at multiple battery percentages](https://github.com/medhachaitanya/PureBatteryAddOnSetup/blob/master/Screenshots/LatestScreenshot.png)
 
 # Examples: 
