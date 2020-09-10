@@ -1,8 +1,6 @@
 # Install from the [Microsoft Store](https://www.microsoft.com/store/productId/9N3HDTNCF6Z8) - The easiest way 
 
-# Install manually by following the steps below
-
-# How to install ?
+# How to install manually?
 
 * Download the zip file from [Latest](https://github.com/medhachaitanya/PureBatteryAddOnSetup/tree/master/Latest) folder, extract it and run the setup file.  
 * Extract the zip
