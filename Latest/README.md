@@ -1,6 +1,6 @@
-#Install from the [Microsoft Store](https://www.microsoft.com/store/productId/9N3HDTNCF6Z8) - The easiest way 
+# Install from the [Microsoft Store](https://www.microsoft.com/store/productId/9N3HDTNCF6Z8) - The easiest way 
 
-#Install manually by following the steps below
+# Install manually by following the steps below
 
 # How to install ?
 
