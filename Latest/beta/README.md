@@ -1,15 +1,11 @@
-# How to install the beta version - the easy way ?
+# Install from the [Microsoft Store](https://www.microsoft.com/store/productId/9N3HDTNCF6Z8) - The easiest way 
+
+# How to install manually ? - The easy way 
 (another way to install at the end of the page)
 * Download the zip file from [latest-beta](https://github.com/medhachaitanya/PureBatteryAddOnSetup/blob/master/Latest/beta/latest-beta.zip) folder.
-
-* I am working to get this software to the MS store so that you can download/update it from there directly. Just some more time. Thank you.
-
 * Extract the zip
   * Right-click on install.ps1 and choose -> run with powershell. You can choose option A or option R as required.
-  * Ignore if there are any windows smartscreen warnings as shown in [Step 2](https://github.com/medhachaitanya/PureBatteryAddOnSetup/blob/master/Step%202_%20Very%20Imp%20-%20Read%20and%20Understand.png).
-  
-* If you want to know why Windows is showing the smartscreen warning or untrusted warnings you can learn it from -> [Read the reason](https://github.com/medhachaitanya/PureBatteryAddOnSetup/blob/master/Step%202_%20Very%20Imp%20-%20Read%20and%20Understand.png)
-* After installing, you should see the add-on running in your taskbar.
+* After installing, open the app and you should see the add-on running in your taskbar.
 * Right click and configure settings based on your preferences.
 * You're all set!
 
@@ -57,7 +53,7 @@ To help me continue working on making this app better, please consider donating 
 [![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=karri.15%40wright.edu&currency_code=USD&source=url)
 
 
-# How to install the beta version #2?
+# Is there any another way to install ?
 
 ## Step 1 - With an example certificate. You will see PureBatteryAddOnPackage_1.0.13.0_x86_x64_arm_arm64.cer
 ![Step 1](https://github.com/medhachaitanya/YGIC-Photo-Maker/blob/master/AppReleases/Images/Step%201.PNG)
