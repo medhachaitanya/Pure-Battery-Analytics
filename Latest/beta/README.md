@@ -1,6 +1,6 @@
 # How to install the beta version ?
 
-* Download the zip file from [Latest](https://github.com/medhachaitanya/PureBatteryAddOnSetup/tree/master/Latest) folder, extract it and right-click on install.ps1 and choose -> run with powershell.
+* Download the zip file from [latest-beta](https://github.com/medhachaitanya/PureBatteryAddOnSetup/blob/master/Latest/beta/latest-beta.zip) folder, extract it and right-click on install.ps1 and choose -> run with powershell.
 You can choose option A or option R as required. 
 
 * I am working to get this software to the MS store so that you can download it from there directly. Just some more time. Thank you.
