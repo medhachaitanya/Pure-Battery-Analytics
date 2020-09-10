@@ -1,3 +1,6 @@
+# If you are a tech enthusiast and would like to try the latest beta version and feedback on it, please use beta folder.
+
+
 # How to install ?
 
 * Download the zip file from [Latest](https://github.com/medhachaitanya/PureBatteryAddOnSetup/tree/master/Latest) folder, extract it and run the setup file.  
