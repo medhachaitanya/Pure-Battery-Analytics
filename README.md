@@ -1,9 +1,9 @@
 # Pure Battery Add On Setup 
 This is the repository containing the Pure Battery System Tray Add-on application files. 
 
-You may download the original Pure Battery Analytics application from [Microsoft Store.](https://www.microsoft.com/en-us/p/pure-battery-analytics/9nblggh4x4k3?activetab=pivot:overviewtab)
+# Install the add-on from the [Microsoft Store](https://www.microsoft.com/store/productId/9N3HDTNCF6Z8)
 
-# How to install ?
+# How to install manually?
 
 * Download the zip file from [Latest](https://github.com/medhachaitanya/PureBatteryAddOnSetup/tree/master/Latest) folder, extract it and run the setup file.  
 * Extract the zip
@@ -12,7 +12,10 @@ You may download the original Pure Battery Analytics application from [Microsoft
 * After installing, you should see the add-on running in your taskbar.
 * Right click and configure settings based on your preferences.
 * You're all set!
- 
+
+
+You may download the original application [Pure Battery Analytics from Microsoft Store.](https://www.microsoft.com/en-us/p/pure-battery-analytics/9nblggh4x4k3?activetab=pivot:overviewtab)
+
 # App Screenshots
 ![System-Tray](https://github.com/medhachaitanya/PureBatteryAddOnSetup/blob/master/Screenshots/SystemTray.PNG)
 ![Settings](https://github.com/medhachaitanya/PureBatteryAddOnSetup/blob/master/Screenshots/LatestScreenshot.png)
