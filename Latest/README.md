@@ -9,11 +9,6 @@
 * You're all set!
 
 # What's new?
--You can now bold the percentage digits shown in the system-tray. 
-
--Performance improvements and bug fixes.
-
--Launch Pure battery right from the tray icon.
 
 -Add as many as battery percentage values to get notified accordingly. 
 
