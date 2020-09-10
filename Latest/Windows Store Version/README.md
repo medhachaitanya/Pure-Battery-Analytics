@@ -2,7 +2,7 @@
 
 # How to install manually ? - The easy way 
 (another way to install at the end of the page)
-* Download the zip file from [latest-beta](https://github.com/medhachaitanya/PureBatteryAddOnSetup/blob/master/Latest/beta/latest-beta.zip) folder.
+* Download the zip file from [Windows Store Version](https://github.com/medhachaitanya/PureBatteryAddOnSetup/blob/master/Latest/Windows%20Store%20Version/PureBatteryAddOnPackage_1.0.13.0_StoreVersion.zip) folder.
 * Extract the zip
   * Right-click on install.ps1 and choose -> run with powershell. You can choose option A or option R as required.
 * After installing, open the app and you should see the add-on running in your taskbar.
