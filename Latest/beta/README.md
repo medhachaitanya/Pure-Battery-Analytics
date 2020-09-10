@@ -1,14 +1,14 @@
 # How to install the beta version ?
 
-* Download the zip file from [latest-beta](https://github.com/medhachaitanya/PureBatteryAddOnSetup/blob/master/Latest/beta/latest-beta.zip) folder, extract it and right-click on install.ps1 and choose -> run with powershell.
-You can choose option A or option R as required. 
+* Download the zip file from [latest-beta](https://github.com/medhachaitanya/PureBatteryAddOnSetup/blob/master/Latest/beta/latest-beta.zip) folder.
 
-* I am working to get this software to the MS store so that you can download it from there directly. Just some more time. Thank you.
+* I am working to get this software to the MS store so that you can download/update it from there directly. Just some more time. Thank you.
 
 * Extract the zip
   * Right-click on install.ps1 and choose -> run with powershell. You can choose option A or option R as required.
   * Ignore if there are any windows smartscreen warnings as shown in [Step 2](https://github.com/medhachaitanya/PureBatteryAddOnSetup/blob/master/Step%202_%20Very%20Imp%20-%20Read%20and%20Understand.png).
-* If you want to know why Windows is showing the smartscreen warning you can read -> [Read the reason](https://github.com/medhachaitanya/PureBatteryAddOnSetup/blob/master/Step%202_%20Very%20Imp%20-%20Read%20and%20Understand.png)
+  
+* If you want to know why Windows is showing the smartscreen warning or untrusted warnings you can learn it from -> [Read the reason](https://github.com/medhachaitanya/PureBatteryAddOnSetup/blob/master/Step%202_%20Very%20Imp%20-%20Read%20and%20Understand.png)
 * After installing, you should see the add-on running in your taskbar.
 * Right click and configure settings based on your preferences.
 * You're all set!
