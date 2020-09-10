@@ -1,5 +1,6 @@
-# If you are a tech enthusiast and would like to try the latest beta version and feedback on it, please use the beta folder.
+#Install from the [Microsoft Store](https://www.microsoft.com/store/productId/9N3HDTNCF6Z8) - The easiest way 
 
+#Install manually by following the steps below
 
 # How to install ?
 
