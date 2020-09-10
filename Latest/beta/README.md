@@ -1,5 +1,5 @@
-# How to install the beta version ?
-
+# How to install the beta version - the easy way ?
+(another way to install at the end of the page)
 * Download the zip file from [latest-beta](https://github.com/medhachaitanya/PureBatteryAddOnSetup/blob/master/Latest/beta/latest-beta.zip) folder.
 
 * I am working to get this software to the MS store so that you can download/update it from there directly. Just some more time. Thank you.
@@ -55,3 +55,23 @@ This project/software is made free so that more people can use it.
 To help me continue working on making this app better, please consider donating any amount(tiny/small/big) that you wish to. 
 
 [![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=karri.15%40wright.edu&currency_code=USD&source=url)
+
+
+# How to install the beta version #2?
+
+## Step 1 - With an example certificate. You will see PureBatteryAddOnPackage_1.0.13.0_x86_x64_arm_arm64.cer
+![Step 1](https://github.com/medhachaitanya/YGIC-Photo-Maker/blob/master/AppReleases/Images/Step%201.PNG)
+## Step 2
+![Step 2](https://github.com/medhachaitanya/YGIC-Photo-Maker/blob/master/AppReleases/Images/Step%202.PNG)
+## Step 3
+![Step 3](https://github.com/medhachaitanya/YGIC-Photo-Maker/blob/master/AppReleases/Images/Step%203.PNG)
+## Step 4
+![Step 4](https://github.com/medhachaitanya/YGIC-Photo-Maker/blob/master/AppReleases/Images/Step%205.PNG)
+## Step 5
+![Step 5](https://github.com/medhachaitanya/YGIC-Photo-Maker/blob/master/AppReleases/Images/Step%206.PNG)
+## Step 6
+![Step 6](https://github.com/medhachaitanya/YGIC-Photo-Maker/blob/master/AppReleases/Images/Step%207.PNG)
+## Step 7
+![Step 7](https://github.com/medhachaitanya/YGIC-Photo-Maker/blob/master/AppReleases/Images/Step%208.PNG)
+## Step 8
+Install setup.msixbundle
