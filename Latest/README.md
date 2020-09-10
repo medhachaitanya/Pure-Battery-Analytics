@@ -1,4 +1,4 @@
-# If you are a tech enthusiast and would like to try the latest beta version and feedback on it, please use beta folder.
+# If you are a tech enthusiast and would like to try the latest beta version and feedback on it, please use the beta folder.
 
 
 # How to install ?
