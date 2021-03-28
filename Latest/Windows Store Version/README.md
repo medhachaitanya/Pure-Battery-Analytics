@@ -2,7 +2,7 @@
 
 # How to install manually ? - The easy way 
 (another way to install at the end of the page)
-* Download the zip file from [Windows Store Version](https://github.com/medhachaitanya/PureBatteryAddOnSetup/blob/master/Latest/Windows%20Store%20Version/PureBatteryAddOnPackage_1.0.13.0_StoreVersion.zip) folder.
+* Download the zip file from [Windows Store Version](https://github.com/medhachaitanya/PureBatteryAddOnSetup/blob/master/Latest/Windows%20Store%20Version/PureBatteryAddOnPackage_1.0.17.0_StoreVersion.zip) folder.
 * Extract the zip
   * Right-click on install.ps1 and choose -> run with powershell. You can choose option A or option R as required.
 * After installing, open the app and you should see the add-on running in your taskbar.
@@ -30,7 +30,7 @@ So, I thought separating the values with commas is a simple way to satisfy diffe
 
 ![System-Tray](https://github.com/medhachaitanya/PureBatteryAddOnSetup/blob/master/Screenshots/SystemTray.PNG)
 
-![You can now choose to notify at multiple battery percentages](https://github.com/medhachaitanya/PureBatteryAddOnSetup/blob/master/Screenshots/LatestScreenshot.PNG)
+![You can now choose to notify at multiple battery percentages](https://github.com/medhachaitanya/PureBatteryAddOnSetup/blob/master/Screenshots/LatestSettingsScreenshot.PNG)
 
 # Examples 
   * 20 - Notifies only when battery is 20%
