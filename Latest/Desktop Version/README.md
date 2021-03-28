@@ -35,6 +35,12 @@ So, I thought separating the values with commas is a simple way to satisfy diffe
   * 15,16,17,18,19,20 - If you want to be notified at every percentage from 15-20.
   * 15,15 - Any duplicates are ignored internally. So, DO NOT assume that 15,15 will raise the notifications twice.
   * There's no restriction on the number of values given. But practically, you can give only 93 values as battery ranges from 7-100 and duplicates are ignored. Windows by default hiberates if the battery is less than 7%.
+
+# How to UNINSTALL ? 
+  * Right click and open the application from the system-tray.
+  * Uncheck the Autorun on startup option.
+  * Go to Control Panel and uninstall Pure Battery Addon from the list of installed programs. You're all done. 
+
   
 # Requirements
 This application requires:
