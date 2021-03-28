@@ -30,7 +30,7 @@ So, I thought separating the values with commas is a simple way to satisfy diffe
 
 ![System-Tray](https://github.com/medhachaitanya/PureBatteryAddOnSetup/blob/master/Screenshots/SystemTray.PNG)
 
-![You can now choose to notify at multiple battery percentages](https://github.com/medhachaitanya/PureBatteryAddOnSetup/blob/master/Screenshots/LatestScreenshot.png)
+![You can now choose to notify at multiple battery percentages](https://github.com/medhachaitanya/PureBatteryAddOnSetup/blob/master/Screenshots/LatestScreenshot.PNG)
 
 # Examples 
   * 20 - Notifies only when battery is 20%
