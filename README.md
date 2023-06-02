@@ -35,8 +35,8 @@ If you have any issues with Pure Battery or it's add-on's feel free to create an
 
 You may download the original application [Pure Battery Analytics from Microsoft Store.](https://www.microsoft.com/en-us/p/pure-battery-analytics/9nblggh4x4k3?activetab=pivot:overviewtab)
 # App Screenshots - Pure Battery Analytics
-![HomePage](https://github.com/medhachaitanya/PureBatteryAddOnSetup/blob/master/Screenshots/Screenshot%202023-06-01%20172825.png)
-![Analytics](https://github.com/medhachaitanya/PureBatteryAddOnSetup/blob/master/Screenshots/Screenshot%202023-06-01%20172930.png)
+![HomePage](https://github.com/medhachaitanya/PureBatteryAddOnSetup/blob/master/Screenshots/Screenshot%202023-06-01%20184236_dell-xps15-front.png)
+![Analytics](https://github.com/medhachaitanya/PureBatteryAddOnSetup/blob/master/Screenshots/Screenshot%202023-06-01%20184250_dell-xps15-front.png)
 ![Extended Analytics](https://github.com/medhachaitanya/PureBatteryAddOnSetup/blob/master/Screenshots/Screenshot%202023-06-01%20173519.png)
 
 # App Screenshots - Battery Percentage Add-On
