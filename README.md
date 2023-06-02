@@ -5,6 +5,8 @@ Perfect way to see battery status and charge discharge times on your main screen
 One of the best battery apps available on the store for Windows 10.
 
 # Features: 
+Link to the features video: https://youtu.be/wQNhBCafzmo
+
 ★ Battery live tiles showing the battery percentage on the start menu. <br/>
 ★ Full charge alarm, low battery notifications, charge/discharge notifications, live tiles. <br/>
 ★ Choose notification tones for and alerts. <br/>
