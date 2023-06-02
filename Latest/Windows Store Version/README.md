@@ -28,9 +28,9 @@ So, I thought separating the values with commas is a simple way to satisfy diffe
 
 # Screenshots
 
-![System-Tray](https://github.com/medhachaitanya/PureBatteryAddOnSetup/blob/master/Screenshots/SystemTray.PNG)
-
-![You can now choose to notify at multiple battery percentages](https://github.com/medhachaitanya/PureBatteryAddOnSetup/blob/master/Screenshots/LatestSettingsScreenshot.PNG)
+![System-Tray](https://github.com/medhachaitanya/PureBatteryAddOnSetup/blob/master/Screenshots/Screenshot%202023-05-11%20231018.png)
+![App Settings](https://github.com/medhachaitanya/PureBatteryAddOnSetup/blob/master/Screenshots/Screenshot%202023-06-01%20170515.png)
+![Icon Settings](https://github.com/medhachaitanya/PureBatteryAddOnSetup/blob/master/Screenshots/Screenshot%202023-06-01%20170547.png)
 
 # Examples 
   * 20 - Notifies only when battery is 20%
