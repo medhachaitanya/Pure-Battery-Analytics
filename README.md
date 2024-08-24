@@ -1,3 +1,5 @@
+Nominate Pure Battery for Microsoft Store Awards (before Sep, 15, 2024): https://forms.office.com/Pages/ResponsePage.aspx?id=v4j5cvGGr0GRqy180BHbR_lzdMcHC_tMqWeRwoTd7TRUMlZZWk5ZUk1JU0Q4RU03S1BKU0xHRExNVi4u
+
 # ★ BEST RATED & MOST DOWNLOADED BATTERY APP FOR WINDOWS 10, 11 DEVICES★
 With Pure Battery Analytics, you can <br/>
 Monitor your battery with Pure Battery Analytics. Generate accurate analysis, analytics and reports.
