@@ -26,6 +26,26 @@ Why Pure Battery ?  <br/>
 ★ See accurate battery data, its analysis and analytics.<br/>
 ★ Try it, I am sure you'll love it.<br/>
 
+## By The Numbers
+- ⭐ 4.76/5 average global rating
+- 📥 1,000,000+ downloads
+- 🏆 Top-ranked battery app on Microsoft Store
+- 🖥️ Compatible with Windows 10 & 11
+- 🔄 Actively maintained since 2016
+
+## How Pure Battery Compares
+
+| Feature | Pure Battery Analytics | Generic Battery Apps |
+|---|---|---|
+| Charge/Discharge Graphs | ✅ Full analytics | ❌ Basic or none |
+| Overcharge Protection | ✅ Yes (with TP-Link Integration via Add Ons) | ❌ Rarely |
+| Theft Alarm | ✅ Yes | ❌ No |
+| Night Mode | ✅ Yes | ❌ No |
+| System Tray Add-on (Real-time Battery Percentage Icon) | ✅ Yes via Add On| ❌ No |
+| Live Tiles | ✅ Yes | ❌ No |
+| Downloads | 1,000,000+ | Much fewer |
+| Rating | 4.76 / 5 | Lower |
+
 # Pure Battery Analytics and Pure Battery Add On 
 This is the repository containing the Pure Battery System Tray Add-on application files. 
 If you have any issues with Pure Battery or it's add-on's feel free to create an issue. 
